@@ -1,2 +1,2 @@
 # SimpleOneEndpoint
-Just a simple sprintboot application with one endpoint /getHeartBeat
+Just a simple springboot application with one endpoint /getHeartBeat
